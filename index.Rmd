@@ -2,6 +2,8 @@
 title: "Luis Terrazas-Salgado"
 image: "Luis.jpg"
 links:
+  - label: Flickr
+    url: "https://www.flickr.com/photos/luisterrazass/"
   - label: Twitter
     url: "https://twitter.com/lterrazas55"
   - label: GitHub
