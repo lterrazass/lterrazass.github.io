@@ -2,13 +2,13 @@
 title: "Luis Terrazas-Salgado"
 image: "Luis.jpg"
 links:
-  - label: Flickr
+  - label: '`r fontawesome::fa("flickr", fill = "forestgreen")` Flickr'
     url: "https://www.flickr.com/photos/luisterrazass/"
-  - label: Twitter
+  - label: '`r fontawesome::fa("twitter", fill = "forestgreen")` Twitter'
     url: "https://twitter.com/lterrazas55"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "forestgreen")` Github'
     url: "https://github.com/lterrazass"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "forestgreen")` Mail'
     url: "terrazassalgadol@gmail.com"
 output:
   postcards::trestles
