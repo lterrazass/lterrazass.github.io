@@ -15,7 +15,7 @@ output:
 ## Bio
 
 Luis Terrazas-Salgado is a PhD candidate and studies the effects of xenobiotics on embryonic and reproductive development in zebrafish at the Centro de Investigacion en Alimentación y Desarrollo A.C. in Mazatlán, Sinaloa, Mexico.
-My research uses a zebrafish models, to characterize molecular mechanisms underpinning potential impacts of xenobiotics on human and animal health.
+My research use a zebrafish, to characterize molecular mechanisms underpinning potential impacts of xenobiotics on human and animal health.
 
 ## Education
 
