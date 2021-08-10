@@ -5,7 +5,7 @@ links:
   - label: '`r fontawesome::fa("flickr", fill = "forestgreen")` Flickr'
     url: "https://www.flickr.com/photos/luisterrazass/"
   - label: '`r fontawesome::fa("twitter", fill = "forestgreen")` Twitter'
-    url: "https://twitter.com/lterrazas55"
+    url: "https://twitter.com/luisterrazas55"
   - label: '`r fontawesome::fa("github", fill = "forestgreen")` Github'
     url: "https://github.com/lterrazass"
   - label: '`r fontawesome::fa("envelope", fill = "forestgreen")` Mail'
@@ -16,8 +16,7 @@ output:
  
 ## Bio
 
-Luis Terrazas-Salgado is a PhD candidate and studies the effects of xenobiotics on embryonic and reproductive development in zebrafish at the Centro de Investigacion en Alimentación y Desarrollo A.C. in Mazatlán, Sinaloa, Mexico.
-My research use a zebrafish, to characterize molecular mechanisms underpinning potential impacts of xenobiotics on human and animal health.
+Luis Terrazas-Salgado is a PhD candidate at the Centro de Investigacion en Alimentación y Desarrollo A.C. in Mazatlán, Sinaloa, Mexico and studies the effects of xenobiotics on endocrine, embryonic and epigenomic disruption in zebrafish. My research use a zebrafish, to characterize molecular mechanisms underpinning potential impacts of xenobiotics on human and animal health.
 
 ## Education
 
