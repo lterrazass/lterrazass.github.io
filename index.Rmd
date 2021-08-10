@@ -17,6 +17,7 @@ output:
 ## Bio
 
 Luis Terrazas-Salgado is a PhD candidate at the Research Center in Food and Development in Mazatlán, Sinaloa, Mexico. He studies the effects of xenobiotics on endocrine, embryonic and epigenomic disruption in zebrafish. 
+
 My research use a zebrafish, to characterize molecular mechanisms underpinning potential impacts of xenobiotics on human and animal health.
 
 ## Education
