@@ -1,0 +1,43 @@
+---
+title: "Luis Terrazas-Salgado"
+image: "luis.jpg"
+links:
+  - label: '`r fontawesome::fa("twitter", fill = "forestgreen")` Twitter'
+    url: "https://twitter.com/luisterrazas55"
+  - label: '`r fontawesome::fa("github", fill = "forestgreen")` Github'
+    url: "https://github.com/lterrazass"
+  - label: '`r fontawesome::fa("flickr", fill = "forestgreen")` Flickr'
+    url: "https://www.flickr.com/photos/luisterrazass/"
+  - label: '`r fontawesome::fa("envelope", fill = "forestgreen")` Mail'
+    url: "terrazassalgadol@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+  
+Luis Terrazas-Salgado is a PhD candidate at the Research Center in Food and Development in Mazatlán, Sinaloa, Mexico. He studies the effects of xenobiotics on endocrine, embryonic and epigenomic disruption in zebrafish. 
+
+My research use a zebrafish, to characterize molecular mechanisms underpinning potential impacts of xenobiotics on human and animal health.
+
+
+## Education
+
+**Center for Research in Food and Development** | Mazatlan, Sin, Mexico
+
+Ph.D. candidate in Environmental Management | August 2018 - Present
+
+**Polytechnic University of Sinaloa** | Mazatlan, Sin, Mexico
+
+M.S. in Biotechnology and Molecular Genetics | September 2015 - Aug 2017
+
+**Polytechnic University of Sinaloa** | Mazatlan, Sin, Mexico
+
+B.S. Biotechnology Engineering | September 2011 - Jen 2015
+
+## Interests
+
+* Zebrafish
+* Ecotoxicology
+* Epigenetics
+* Photography
